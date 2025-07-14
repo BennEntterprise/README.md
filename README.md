@@ -97,10 +97,14 @@ It boils down to this:
 
 ## Working Hours: Shifts like the tides
 
-My actual sitting-at-my-desk-hacking hours can fluctuate. I try to do my working day between 7a and 7p Eastern Time, but I often work later in the evening or on weekends. I try to keep my calendar up to date with my working hours, but if you need me outside of those hours, feel free to ping me. I may not respond right away, but I will get back to you as soon as I can.
+Ideally I start my Monday's around 12pm working later into the evening, start my Friday's early and end around 12p. This allows me schedule doctors appointment, banks & postoffice runs, gym classes and other items during the points in the week where everyone else is "settling in" or "checking out early" anyway. I won't reject a meeting early-Monday or late-Friday but I certain will avoid scheduling them there.
+
+My actual sitting-at-my-desk-hacking hours can fluctuate but in general I try to do my "working day" between 7a and 7p Eastern Time. It's not unusual that I'm online at night or on the weekends. I try to keep my calendar up to date with my working hours, but if you need me outside of those hours, feel free to ping me. I may not respond right away, but I will get back to you as soon as I can.
 
 If you see my green bubble on Slack, it means I'm probably at my desk, or at least monitoring Slack on my phone. Feel free to ping me even if it's outside what a normal human would consider "working hours".
 
 If you are worried about pinging me after hours, use the "Send later" feature, but I'll be honest I don't mind getting pings after hours. If I really don't want to see something, I use my device's Focus modes to filter out notifications.
 
 I may send messages late at night, or on weekends. This is because I often work when I feel most productive, and that can be at odd hours. If you see a message from me outside of normal working hours, I DO NOT EXPECT AN ANSWER RIGHT AWAY, I just wanted to get it off my chest so I can focus on other things. I know this can be a problem for some people so I try to be mindful of that follow my own advice from above and use the "Send later" feature whenever I remember.
+
+If you have a high prioirty or urgent message and Slack/Email won't be quick enough, grab my phone number from the company directory and call me. 
